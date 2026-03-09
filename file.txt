@@ -1,5 +1,5 @@
 first line from dev1
 2 from dev1 branch new-feature
 3 from dev1 branch new-feature
-5 from dev1 branch new-feature
 4 line branch dev2
+5 from dev1 branch new-feature
