@@ -3,3 +3,4 @@ first line from dev1
 3 from dev1 branch new-feature
 4 line branch dev2
 5 from dev1 branch new-feature
+6 line from dev2
